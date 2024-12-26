@@ -1,0 +1,44 @@
+body {
+    font-family: 'poppins';
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+body {
+    background-color: rgb(230, 173, 207);
+}
+
+h1 {
+    color:  rgba(244, 55, 86, 0.717);
+    text-align: center;
+}
+
+h2{
+    color: rgb(248, 111, 125);
+}
+tr{
+    color: hwb(341 19% 13%);
+    text-shadow: rgb(146, 152, 152);
+}
+
+.container {
+    max-width: 600px; /* Lebar maksimum kontainer */
+    margin: 20px auto; /* Pusatkan kontainer */
+    padding: 20px; /* Ruang di dalam kontainer */
+    background-color: #fffafe9b; /* Warna latar belakang kontainer */
+    border-radius: 8px; /* Sudut melengkung */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Bayangan */
+    color:   rgb(241, 109, 131);
+}
+
+.container {
+    max-width: 600px; /* Lebar maksimum kontainer */
+    margin: 20px auto; /* Pusatkan kontainer */
+    padding: 20px; /* Ruang di dalam kontainer */
+    background-color: #fffafe9b; /* Warna latar belakang kontainer */
+    border-radius: 8px; /* Sudut melengkung */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Bayangan */
+    color:   rgb(241, 109, 131);
+}
+
