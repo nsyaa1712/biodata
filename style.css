@@ -10,14 +10,15 @@ body {
 }
 
 h1 {
-    color:  rgba(244, 55, 86, 0.717);
+    color: rgba(244, 55, 86, 0.717);
     text-align: center;
 }
 
-h2{
+h2 {
     color: rgb(248, 111, 125);
 }
-tr{
+
+tr {
     color: hwb(341 19% 13%);
     text-shadow: rgb(146, 152, 152);
 }
@@ -29,16 +30,10 @@ tr{
     background-color: #fffafe9b; /* Warna latar belakang kontainer */
     border-radius: 8px; /* Sudut melengkung */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Bayangan */
-    color:   rgb(241, 109, 131);
+    color: rgb(241, 109, 131);
 }
 
-.container {
-    max-width: 600px; /* Lebar maksimum kontainer */
-    margin: 20px auto; /* Pusatkan kontainer */
-    padding: 20px; /* Ruang di dalam kontainer */
-    background-color: #fffafe9b; /* Warna latar belakang kontainer */
-    border-radius: 8px; /* Sudut melengkung */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Bayangan */
-    color:   rgb(241, 109, 131);
+img {
+    border: 5px solid pink; /* Set the border width, style, and color */
+    border-radius: 8px; /* Optional: to give rounded corners */
 }
-
